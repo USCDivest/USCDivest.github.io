@@ -1,7 +1,9 @@
 ---
-layout: archives
-icon: fas fa-archive
+# layout: archives
+# icon: fas fa-archive
 order: 1
 ---
 
-TODO, add our demands here
+# Disclose
+# Divest
+# Abolish DPS
