@@ -4,6 +4,8 @@ title: Get Involved
 # icon: fas fa-info-circle
 order: 2
 ---
+> Add Markdown syntax content to file `_tabs/get_involved.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
 
 # Students
 # Faculty
@@ -12,5 +14,4 @@ Faculty Justice 4 P group
 Pledge no donation till ...
 # Community
 
-> Add Markdown syntax content to file `_tabs/Get_Involved.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
