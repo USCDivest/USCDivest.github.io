@@ -1,7 +1,7 @@
 ---
 title: Resources
 # layout: archives
-# icon: fas fa-archive
+icon: fas fa-info-circle
 order: 4
 ---
 # Know your rights

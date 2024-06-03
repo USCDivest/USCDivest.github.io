@@ -1,6 +1,6 @@
 ---
 # layout: tags
-# icon: fa-solid fa-bars-progress
+icon: fa-solid fa-bars-progress
 order: 3
 ---
 # Study aboard program
