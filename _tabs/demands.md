@@ -1,6 +1,6 @@
 ---
 # layout: archives
-# icon: fas fa-archive
+icon: fa-light fa-person-sign
 order: 1
 ---
 
