@@ -1,5 +1,6 @@
 ---
 title: USC Complicity
+layout: page
 date: 2024-06-09
 categories: [research]
 tags: [research]
