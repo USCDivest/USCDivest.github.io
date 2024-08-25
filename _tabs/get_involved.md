@@ -8,6 +8,7 @@ order: 2
 # Students
 Please follow our instagram account for more details.
 
+USC SJP [linktree](https://linktr.ee/uscsjp)
 # Faculty
 Faculty Justice 4 P group
 # Alumni 
