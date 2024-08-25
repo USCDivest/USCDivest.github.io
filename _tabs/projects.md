@@ -3,8 +3,7 @@
 icon: fa-solid fa-bars-progress
 order: 3
 ---
-# Study aboard program
-
+TODO, this is intended to be an archive of events happened.
 # Encampment
 ## time line
 ## Day1
