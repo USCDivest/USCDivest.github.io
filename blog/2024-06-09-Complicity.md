@@ -1,10 +1,8 @@
 ---
 title: USC Complicity
-layout: page
 date: 2024-06-09
 categories: [research]
 tags: [research]
-render_with_liquid: true
 ---
 
 # USC BOARD OF TRUSTEES AND THEIR INVOLVEMENTS IN WAR PROFITEERING AND ISRAELI BUSINESS VENTURES
