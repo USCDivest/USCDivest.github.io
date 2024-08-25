@@ -3,7 +3,6 @@
 icon: fa-regular fa-font-awesome
 order: 1
 ---
-> Add Markdown syntax content to file `_tabs/demands.md`{: .filepath } and it will show up on this page.
 
 # 1. End War Profiteering and Investment in Genocide.
 * It is unclear how much of USC's $13.8 billion assets are invested in Israeli companies and industries. Per our demands, "USC must fully disclose and divest its finances and endowment from companies and institutions that profit from Israeli apartheid, genocide, and occupation in Palestine, including the US Military and weapons manufacturing. Accountability must be ensured through full transparency around financial investments."
