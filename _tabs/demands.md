@@ -38,5 +38,14 @@ https://dpscab.usc.edu/implementation-dashboard/
 * Erroll Southers, Associate Senior Vice President of Safety and Risk Assurance, who oversees USC’s campus police and collaboration with LAPD.
     * [Meet the ‘homegrown violent extremism’ researcher behind the crackdown on pro-Palestinian students at USC](https://mondoweiss.net/2024/04/meet-the-homegrown-violent-extremism-researcher-behind-the-crackdown-on-pro-palestinian-students-at-usc/)
     * [USC Hires People Fired by the LAPD as Campus Police Officers](https://www.newsweek.com/university-southern-california-hires-people-fired-lapd-campus-police-officers-1569054)
+
+Other references:
+* LAPD:
+  * https://policescorecard.org/ca/police-department/los-angeles
+  * https://watchthewatchers.net/rosters
+* LASD:
+  * https://policescorecard.org/ca/sheriff/los-angeles-county
+  * https://lasd.knock-la.com/
+
 # 6. End the Silence on the Genocide in Palestine.
 * Recently, a human rights expert testified before the United Nations, stating there are 'reasonable grounds' that a genocide is occuring in Gaza. This is nothing new. Since November, UN experts have pointed to the risk of genocide in Gaza. Now it's happening before our eyes. But top media organizations - such as the New York Times - have actively avoided using terms such as 'genocide,' 'ethnic cleansing,' and 'occupied territory' in their coverage.
