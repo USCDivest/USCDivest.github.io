@@ -12,7 +12,7 @@ We, the USC Divest from Death coalition, establish our occupation most fundament
 # USC is complicit
 ## Name people involved/statistics or something (could be separate page if really long)
 ![test](/assets/img/complicit.png)
-# Demands (button/link to page)
+# Demands (Full version [here](https://uscdivest.github.io/demands/))
 ## 1. End War Profiteering and Investment in Genocide.
 • It is unclear how much of USC's $13.8 billion assets are invested in Israeli companies and industries. Per our demands, "USC must fully disclose and divest its finances and endowment from companies and institutions that profit from Israeli apartheid, genocide, and occupation in Palestine, including the US Military and weapons manufacturing. Accountability must be ensured through full transparency around financial investments."
 
@@ -33,7 +33,5 @@ We, the USC Divest from Death coalition, establish our occupation most fundament
 # FAQ
 * Q: Is USC Divest from Death antisemitic?
 * A: USC Divest from Death Coalition focuses on divesting USC from current economic investments surrounding Israel, so is not an antisemitic organization and firmly denounces antisemitic behavior. Antisemitism is defined as a "hostility to, or, prejudice against Jewish people," and to equate our movement against Israeli apartheid with antisemitism is to overlook both our anti-zionist Jewish comrades and silence the voices of Palestinian people who are resisting an genocidal occupation. Israel and its supporters weaponize Judaism against Palestinians and all those in solidarity with Palestinian liberation in order to silence to silence those who resist its colonial and apartheid regime. Our anti-zionist Jewish comrades are vital to our coalition and are continuing the tradition of Judaism as a religion that condemns all forms of oppresion and violence and seeks instead for a more just and liberated world for all people, most urgently the Palestinian people. We believe that the liberation of Palestine is intrinsically tied to Jewish liberation and the liberation of all people.
-# Calls to action
-## Donate
-## Follow 
-## Volunteer
+# Get involved
+Please read this [webpage](https://uscdivest.github.io/get_involved/)
