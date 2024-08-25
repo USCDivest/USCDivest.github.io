@@ -11,7 +11,7 @@ Please follow the below instagram accounts of our colation organizations for mor
 * USC Students for Justice in Palestine (SJP) [Instagram](https://www.instagram.com/usc_sjp) [linktree](https://linktr.ee/uscsjp)
 * USC Graduate Student for Palestine (not active at the moment)  [Instagram](https://www.instagram.com/uscgraduateforpalestine)
 # Faculty organization
-Faculty Justice 4 P group
+USC Palestine Justice Faculty Group
 [Instagram](https://www.instagram.com/uscpjfg)
 # Alumni organization
 USC Alums for Justice
