@@ -7,7 +7,7 @@ order: 2
 
 # Student organizations
 Please follow the below instagram accounts of our colation organizations for more details.
-* USC Divest from Death [Instagram](https://www.instagram.com/uscdivestfromdeath)
+* USC Divest from Death [Instagram](https://www.instagram.com/uscdivestfromdeath) [linktree](https://linktr.ee/USCDivestFromDeath)
 * USC Students for Justice in Palestine (SJP) [Instagram](https://www.instagram.com/usc_sjp) [linktree](https://linktr.ee/uscsjp)
 * USC Graduate Student for Palestine (not active at the moment)  [Instagram](https://www.instagram.com/uscgraduateforpalestine)
 # Faculty organization
