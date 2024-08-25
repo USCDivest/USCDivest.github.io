@@ -10,8 +10,7 @@ order: 1
 We, the USC Divest from Death coalition, establish our occupation most fundamentally in solidarity with the people of Palestine as they resist genocide and continue in their struggle for liberation. Furthermore, the struggle for Palestinian liberation is not an isolated movement; it is emblematic of the broader fight against colonialism, occupation, and injustice worldwide. In solidarity with the Palestinian people, collective liberation demands that we recognize their struggle as our own. Just as Palestinians resist occupation and seek self-determination, marginalized communities everywhere strive for autonomy, equality, and justice. By amplifying the voices of Palestinians and supporting their struggle, we contribute to the broader movement for collective liberation, affirming our commitment to freedom for all oppressed peoples.
 
 # USC is complicit
-## Name people involved/statistics or something (could be separate page if really long)
-![test](/assets/img/complicit.png)
+Please read our post [here](https://uscdivest.github.io/blog/complicity/)
 # Demands (Full version [here](https://uscdivest.github.io/demands/))
 ## 1. End War Profiteering and Investment in Genocide.
 • It is unclear how much of USC's $13.8 billion assets are invested in Israeli companies and industries. Per our demands, "USC must fully disclose and divest its finances and endowment from companies and institutions that profit from Israeli apartheid, genocide, and occupation in Palestine, including the US Military and weapons manufacturing. Accountability must be ensured through full transparency around financial investments."
