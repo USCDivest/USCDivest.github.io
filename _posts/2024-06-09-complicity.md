@@ -1,5 +1,5 @@
 ---
-title: USC Complicity
+title: USC's Complicity in Genecide
 date: 2024-06-09
 ---
 
@@ -40,8 +40,14 @@ Intuit also has a very large and active branch in Israel.
 major weapons manufacturing company.
 * Pfizer’s #3 shareholder (5.1%) is the [State Street Corporation](https://weaponfreefunds.org/fund/state-street-equity-500-index-fund/SSSVX/weapon-investments/FSUSA04AUI/F00000QT2C), who invests $37.55 billion in weapons — 3% of their total portfolio. The investments for these weapons include those for the manufacturing of white phosphorus, depleted uranium, and nuclear armaments, which are illegal under international law. The top 5 weapons companies that the VanGuard Group invests in are within the top 25 largest weapons manufacturers in the U.S.
 
-Pfizer created a [fundraiser](https://www.linkedin.com/posts/albert-bourla_standing-with-the-people-of-israel-activity-7118243940096466944-lRGZ/?utm_source=share&utm_medium=member_desktop) for Israel after Oct. 7, opening with, 
+Pfizer created a [fundraiser](https://www.linkedin.com/posts/albert-bourla_standing-with-the-people-of-israel-activity-7118243940096466944-lRGZ/) for Israel after Oct. 7, opening with, 
 “Over the past few days, the scope of the atrocities carried out against Israel and its citizens have 
 become clearer and more horrific.” They continue on to state that they “Stand with the people of Israel.”
 
 Neither a fundraiser nor a statement of support for Palestine has never been made.
+
+
+
+**More to be updated**
+
+Instagram Post [1](https://www.instagram.com/p/C12SYSiJhnP) [2](https://www.instagram.com/p/C2Iogw2yaPg/)
