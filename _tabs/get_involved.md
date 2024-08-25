@@ -16,7 +16,6 @@ USC Palestine Justice Faculty Group
 # Alumni organization
 USC Alums for Justice
 [Instagram](https://www.instagram.com/uscalums4justice)
-
-Alumni Letter to USC Administration [Read and Sign](https://bit.ly/divest-usc)
+* Alumni Letter to USC Administration [Read and Sign](https://bit.ly/divest-usc)
 
 
