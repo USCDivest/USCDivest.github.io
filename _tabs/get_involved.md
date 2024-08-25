@@ -5,16 +5,18 @@ icon: fa-solid fa-info
 order: 2
 ---
 
-# Students
-Please follow our instagram account for more details.
-
-USC SJP [linktree](https://linktr.ee/uscsjp)
-# Faculty
+# Student organizations
+Please follow the below instagram accounts of our colation organizations for more details.
+* USC Divest from Death [Instagram](https://www.instagram.com/uscdivestfromdeath)
+* USC Students for Justice in Palestine (SJP) [Instagram](https://www.instagram.com/usc_sjp) [linktree](https://linktr.ee/uscsjp)
+* USC Graduate Student for Palestine (not active at the moment)  [Instagram](https://www.instagram.com/uscgraduateforpalestine)
+# Faculty organization
 Faculty Justice 4 P group
-# Alumni 
+[Instagram](https://www.instagram.com/uscpjfg)
+# Alumni organization
 USC Alums for Justice
 [Instagram](https://www.instagram.com/uscalums4justice)
-[Read & Sign](bit.ly/divest-usc)
-# Community
+
+Alumni Letter to USC Administration [Read & Sign](bit.ly/divest-usc)
 
 
