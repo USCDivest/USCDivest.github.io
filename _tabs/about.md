@@ -6,7 +6,7 @@ icon: fa-regular fa-font-awesome
 order: 1
 ---
 
-# Mission statement (link to full doc)
+# Occupation Mission statement (Full statement [here](https://tr.ee/GaKy5SPsbD))
 We, the USC Divest from Death coalition, establish our occupation most fundamentally in solidarity with the people of Palestine as they resist genocide and continue in their struggle for liberation. Furthermore, the struggle for Palestinian liberation is not an isolated movement; it is emblematic of the broader fight against colonialism, occupation, and injustice worldwide. In solidarity with the Palestinian people, collective liberation demands that we recognize their struggle as our own. Just as Palestinians resist occupation and seek self-determination, marginalized communities everywhere strive for autonomy, equality, and justice. By amplifying the voices of Palestinians and supporting their struggle, we contribute to the broader movement for collective liberation, affirming our commitment to freedom for all oppressed peoples.
 
 # USC is complicit
